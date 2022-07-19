@@ -46,7 +46,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '📄' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Bhushitha.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
@@ -63,6 +63,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     wait: '👉👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    react : 'Owner Message👨‍💻'
 }
 // DO NOT CHANGE \\
     global.limitawal = {
