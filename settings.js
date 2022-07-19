@@ -27,11 +27,7 @@ global.premium = ['+17789023079'] //Owner Number info
 global.ownernomer = '+177880223079' //Owner Number <<<
           "owner":  "SUMI ALPHA BOT",
           "number":  ["17789023079"],
-	  "emoji" : ["👨‍💻"],
-          Command: "alive,ගන්න"],
-	   type : "alive",
-           desc: ()=> string().alive.desc,
-           react : "👨‍💻"
+	  "emoji" : ["👨‍💻"]
 
 
 global.ownername = '😎BHUSHITHA' //Owner Name
