@@ -8,7 +8,7 @@
 
 ## ☆SUMI》ALPHA》BOT   Version 7.0
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬SUMI༒ALPHA࿐+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SUMI+ALPHA+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+BHUSHITHA;𝐌𝐑:+BHUSHITHA ࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬SUMI༒ALPHA+𝗕𝗢𝗧;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SUMI+ALPHA+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+BHUSHITHA;𝐌𝐑:+BHUSHITHA࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed=])
 
