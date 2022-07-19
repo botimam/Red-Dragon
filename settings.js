@@ -23,7 +23,7 @@ global.alivemsg = `My name is SUMI ALPHA BOT🔥
 My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+17789023079'] //Owner number in aive msg
-global.premium = ['94767761567'] //Owner Number info
+global.premium = ['+17789023079'] //Owner Number info
 global.ownernomer = '+177880223079' //Owner Number <<<
 global.teamnumber = '17789023079,94742427578,94767761567' //Team Nuber <<<
 
