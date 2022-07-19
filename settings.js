@@ -25,7 +25,11 @@ My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your mes
 global.owner = ['+17789023079'] //Owner number in aive msg
 global.premium = ['+17789023079'] //Owner Number info
 global.ownernomer = '+177880223079' //Owner Number <<<
-global.teamnumber = '17789023079,94742427578,94767761567' //Team Nuber <<<
+          "owner":  "SUMI ALPHA BOT",
+          "number":  ["17789023079"],
+	  "emoji" : ["👨‍💻"]
+		  
+
 
 global.ownername = '😎BHUSHITHA' //Owner Name
 global.botname = 'SUMI ALPHA' //Bot Name
