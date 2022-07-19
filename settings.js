@@ -19,18 +19,20 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is SUMI ALPHA BIT🔥
+global.alivemsg = `My name is SUMI ALPHA BOT🔥
 My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+17789023079'] //Owner number in aive msg
 global.premium = ['+17789023079'] //Owner Number info
-global.ownernomer = '+17789023079' //Owner Number <<<
+global.ownernomer = '94767761567' //Owner Number <<<
+global.teamnomba = '17789023079,94742427578,94767761567' //Team Nuber <<<
 
 global.ownername = '😎BHUSHITHA' //Owner Name
 global.botname = 'SUMI ALPHA' //Bot Name
 
 global.button = '🌍WEBSITE 🌍' //Costomize B Button Name In Message
-global.btnurl = '
+global.btnurl = 'https://github.com/botimam/Red-Dragon.git' //Change Yout Button's URL
+
 global.button = '☰ WHTSAPPIS GRUP ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME' //Change Your Button's URL
 
@@ -41,7 +43,7 @@ global.author = '😎SUMI ALPHA❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '📄' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
