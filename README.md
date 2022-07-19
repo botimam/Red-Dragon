@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://user-images.githubusercontent.com/108208262/179673634-0f3a4d98-4ba5-4656-84af-eacb8d69e938.jpg" alt="nz" width="350"/>
 </p>
 
 ## ☆SUMI》ALPHA》BOT   Version 7.0
@@ -49,7 +49,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 
 </details>
 
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
+> [SUPPORT GROUP](https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME)
 
 <b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
 
@@ -73,7 +73,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/17789023079"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
 </p>
 
 </details>
