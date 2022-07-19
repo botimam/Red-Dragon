@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is SUMI ALPHA BOT🔥
 My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+17789023079'] //Owner number in aive msg
-global.premium = ['+17789023079'] //Owner Number info
-global.ownernomer = '+177880223079' //Owner Number <<<
+global.owner = ['94742427578'] //Owner number in aive msg
+global.premium = ['94742427578'] //Owner Number info
+global.ownernomer = '94742427578' //Owner Number <<<
 global.ownernumber = ["17789023079"],
 global.react = ["👨‍💻"]
 
@@ -32,7 +32,7 @@ global.react = ["👨‍💻"]
 global.ownername = '😎BHUSHITHA' //Owner Name
 global.botname = 'SUMI ALPHA' //Bot Name
 
-global.button = '🌍WEBSITE 🌍' //Costomize B Button Name In Message
+global.button = '🌍WEBSITE 🌍' //Costomize B Button Name In Alive Message
 global.btnurl = 'https://github.com/botimam/Red-Dragon.git' //Change Yout Button's URL
 
 global.button = '☰ WHTSAPPIS GRUP ☰' //Costomize A Button Name In Alive Message
