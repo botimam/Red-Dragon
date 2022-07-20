@@ -25,17 +25,17 @@ My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your mes
 global.owner = ['94742427578'] //Owner number in aive msg
 global.premium = ['94742427578'] //Owner Number info
 global.ownernomer = '94742427578' //Owner Number <<<
-global.ownernumber = ["17789023079"],
-global.react = ["👨‍💻"]
+global.ownernumber = ["94767761566"],//Owner Number 
+global.react = ["👨‍💻"] //Owner Message in react 
 
 
 global.ownername = '😎BHUSHITHA' //Owner Name
 global.botname = 'SUMI ALPHA' //Bot Name
 
-global.button = '🌍WEBSITE 🌍' //Costomize B Button Name In Alive Message
+global.button = '🌍WEBSITE 🌍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/botimam/Red-Dragon.git' //Change Yout Button's URL
 
-global.button = '☰ WHTSAPPIS GRUP ☰' //Costomize A Button Name In Alive Message
+global.button = '☰ WHTSAPPIS GRUP ☰' //Costomize B Button Name In Alive Message
 global.btnurl = 'https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
@@ -63,7 +63,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     wait: '👉👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    react : 'Owner Message👨‍💻'
+    Ownermessage : '👨‍💻'
 }
 // DO NOT CHANGE \\
     global.limitawal = {
