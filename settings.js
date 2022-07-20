@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivelogo = '' //Costomize Alive logo
+global.alivelogo = 'https://user-images.githubusercontent.com/108208262/179673634-0f3a4d98-4ba5-4656-84af-eacb8d69e938.jpg' //Costomize Alive logo
 global.alivemsg = `My name is SUMI ALPHA BOT🔥
 My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your message in `` )
 
