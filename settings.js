@@ -19,6 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
+global.alivelogo = '' //Costomize Alive logo
 global.alivemsg = `My name is SUMI ALPHA BOT🔥
 My Creator is MR:BHUSHITHA 👨‍💻` //Costomize Alive Message (type your message in `` )
 
